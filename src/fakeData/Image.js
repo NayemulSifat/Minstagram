@@ -1,0 +1,45 @@
+var Img =[
+    {
+        img:"https://media.comicbook.com/2019/04/avengers-endgame-iron-man-1165602-1280x0.jpeg"
+    },
+    {
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgPMmbZzDSBPISZntbTePMxQ1G2YXYaQ4Wrg&usqp=CAU"
+    },
+    {
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQiLhgLVEV-kGmFBoAvuXjOEHlT4s7CArKngQ&usqp=CAU"
+    },
+    {
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9Mk-AvcN8vxPXMnjZj_vrOefh5OpP59d-UQ&usqp=CAU"
+    },
+    {
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQb18NL2dETYMX9c_sbxrbAcrc-ioTbcJS5Dw&usqp=CAU"
+    },
+    {
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQkxZaFMfWAALRAncKW0iCkYC6R-0tGIOvUjg&usqp=CAU"
+    },
+    {
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3de8Kc_l2n_XROFnILIFTKvs8AnHWNc-vSA&usqp=CAU"
+    },
+    {
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3LFxPAg5rG9hDZ91cALBTlRNXv8ZVoSiv6w&usqp=CAU"
+    },
+    {
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYhA7DDhINvREz9L9XmfFaAYcTUK7fAL9eLg&usqp=CAU"
+    },
+    {
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzB1obNuhvFDtYrEj1mB5GVxD5kru8o01WMQ&usqp=CAU"
+    },
+    {
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzdsGFrR12R18gyMsowJ6cnQ1GmtdIdnOpCQ&usqp=CAU"
+    },
+    {
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_QsNuMQDd427yZjI0MK5-79RapPT87RR_Ug&usqp=CAU"
+    },
+    {
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSD-Zj1aXBHq1_fGTwFb2sqkoDqUKzjYe54-A&usqp=CAU"
+    },
+    {
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSliq2RA1AeLBDdEWRh9j11HvGb7Fj5OQERaw&usqp=CAU"
+    }
+]
+export default Img;

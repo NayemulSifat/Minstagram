@@ -1,0 +1,9 @@
+.postDetailsContainer{
+    text-align: center;
+    border: 1px solid blue;
+    background-color: rgb(127, 193, 196);
+    border-radius: 100px;
+    padding: 50px;
+    width:50%;
+    margin: auto;
+}
